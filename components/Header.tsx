@@ -49,7 +49,7 @@ export default function WithAction() {
   return (
     <>
       <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4} 
-      position="fixed"
+      position="static"
       w={"full"}
      
       >
